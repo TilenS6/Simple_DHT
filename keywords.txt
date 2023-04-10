@@ -1,0 +1,5 @@
+DHT22	KEYWORD1
+readSensor	KEYWORD2
+temperature	KEYWORD2
+humidity	KEYWORD2
+failed	KEYWORD2
